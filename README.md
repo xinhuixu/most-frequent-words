@@ -1,2 +1,3 @@
-# kemono-friends
-softdev mapreduc
+# most-frequent-words
+softdev
+reduc
